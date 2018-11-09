@@ -1,0 +1,14 @@
+{
+  "name": "slabtracker",
+  "version": "1.0.0",
+  "description": "Track slab usage in the #support-alerts channel.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Kyle Tryon",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^4.3.0"
+  }
+}
